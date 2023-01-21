@@ -1,0 +1,23 @@
+/** @format */
+
+// NAV BAR
+
+.nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	background-color: $dark-blue1;
+	&__logo img {
+	}
+	&__links {
+		text-decoration: none;
+		list-style-type: none;
+		li {
+			text-decoration: none;
+			a {
+				color: $white;
+			}
+		}
+	}
+}

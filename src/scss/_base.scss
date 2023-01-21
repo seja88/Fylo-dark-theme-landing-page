@@ -1,0 +1,28 @@
+/** @format */
+
+// ## Layout
+
+// The designs were created to the following widths:
+
+// - Mobile: 375px
+// - Desktop: 1440px
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+// Body Copy
+body {
+	font-size: 14px;
+}

@@ -1,0 +1,38 @@
+/** @format */
+
+// Primary
+
+//Dark Blue1 (intro and email sign up background): hsl(217, 28%, 15%)
+//Dark Blue2 (main background): hsl(218, 28%, 13%)
+//Dark Blue3 (footer background): hsl(216, 53%, 9%)
+//Dark Blue4 (testimonials background): hsl(219, 30%, 18%)
+
+$dark-blue1: hsl(217, 28%, 15%);
+$dark-blue2: hsl(218, 28%, 13%);
+$dark-blue3: hsl(216, 53%, 9%);
+$dark-blue4: hsl(219, 30%, 18%);
+
+//Cyan (inside call-to-action gradient): hsl(176, 68%, 64%)
+//Blue (inside call-to-action gradient): hsl(198, 60%, 50%)
+//Light Red (error): hsl(0, 100%, 63%)
+
+$cyain: hsl(176, 68%, 64%);
+$blue: hsl(198, 60%, 50%);
+$light-red-error: hsl(0, 100%, 63%);
+$white: hsl(0, 0%, 100%);
+
+//FONTS
+
+//Headings, Call-to-actions, Header Navigation
+
+//Family: [Raleway](https://fonts.google.com/specimen/Raleway)
+//Weights: 400, 700
+
+$font-family-raleway: "Raleway", sans-serif, Arial;
+$font-weight400: 400;
+$font-weight700: 700;
+
+//Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+//Weights: 400, 700
+
+$fonta-family-opensans: "Open Sans", sans-serif, Arial;
